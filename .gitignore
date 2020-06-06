@@ -1,2 +1,5 @@
 node_modules
-yarn.lock
+uploads/*
+*.sqlite
+!uploads/.gitkeep
+src/database/database.sqlite
